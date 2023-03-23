@@ -1,8 +1,14 @@
+
+Este projeto tem como objetivo:  
+Gerar dataset de imagem.  
+Realizar  treinamento com as imagens. 
+No final e gerado um arquivo no qual a maquina pode gerar novas imagens a partir de rascunhos para melhorar o ocr e possibilitar a validação de assinaturas. 
+
+
 ![andamento](https://user-images.githubusercontent.com/46504158/227182315-cb562ec2-c8c4-49ff-b770-213eeaf6f195.JPG)
 # pix2pix
 Projeto de treinamento de gans com dataset próprio. 
 Abaixo estão os comando a serem executados para instalar as bibliotecas. 
-![andamento](https://user-images.githubusercontent.com/46504158/227181529-232106dd-d104-4486-8c73-8912fa4df607.JPG)
 
 Requisitos: 
   Pyton 
