@@ -1,3 +1,4 @@
+![andamento](https://user-images.githubusercontent.com/46504158/227182315-cb562ec2-c8c4-49ff-b770-213eeaf6f195.JPG)
 # pix2pix
 Projeto de treinamento de gans com dataset próprio. 
 Abaixo estão os comando a serem executados para instalar as bibliotecas. 
